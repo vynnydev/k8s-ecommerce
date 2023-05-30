@@ -1,8 +1,26 @@
-![image](./documents/images/store/home-store.png.png)
+![image](./documents/images/store/home-store.png)
 
 # Rocketseat Experience 2023 - Mobile App
 
 Repositório do e-commerce construído por vynnydev :brazil:
+
+# Home Page - Front
+![image](./documents/images/store/home-store.png)
+
+# All Products Page - Front
+![image](./documents/images/store/all-products.png)
+
+# Cart Page - Front
+![image](./documents/images/store/cart.png)
+
+# Admin Products Page - Admin
+![image](./documents/images/admin/admin-products.png)
+
+# Admin Categories Page - Admin
+![image](./documents/images/admin/admin-categories.png)
+
+# Admin Orders Page - Admin
+![image](./documents/images/admin/admin-orders.png)
 
 ## Executando o projeto
 
