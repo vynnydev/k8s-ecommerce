@@ -94,9 +94,9 @@ Até o momento, este projeto tem funcionalidades basicas.
 - [ ] **Prisma**
 - [ ] **Deploy (Kubernetes)**
 
+### Novas Funcionalidades no projeto k8s-ecommerce-ts
+- [k8s-ecommerce-ts] => https://github.com/vynnydev/k8s-ecommerce-ts
 
-## Licença 📃
-
-[MIT](https://github.com/diego3g/rsxp-2023/blob/main/LICENSE)
+## Made by vynnydev (Vinicius Prudencio) 🚀
 
 
