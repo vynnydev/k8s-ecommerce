@@ -97,6 +97,6 @@ Até o momento, este projeto tem funcionalidades basicas.
 ### Novas Funcionalidades no projeto k8s-ecommerce-ts
 - [k8s-ecommerce-ts] => https://github.com/vynnydev/k8s-ecommerce-ts
 
-## Made by vynnydev (Vinicius Prudencio) 🚀
+### Made by vynnydev (Vinicius Prudencio) 🚀
 
 
